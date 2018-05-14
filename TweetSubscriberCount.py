@@ -10,7 +10,7 @@ ACCESS_KEY = 'redacted'
 ACCESS_SECRET = 'redacted'
 
 # The name of the channel
-channel = 'CHANELNAME'
+channel = 'CHANNELNAME'
 
 # Youtube API key
 key = 'redacted'
