@@ -1,2 +1,4 @@
-# TweetSubscriberCount
-Twython script for Raspberry P. Tweet the current subscriber count for a youtube channel.
+# Tweet Subscriber Count + Subscriber Goal
+Twython script for Raspberry Pi. Tweet the current subscriber count for a youtube channel + subscriber goal. 
+Enter you own keys in TweetSubscriberCount.py.
+Change the channel name, subscriber goal and the twittername.
